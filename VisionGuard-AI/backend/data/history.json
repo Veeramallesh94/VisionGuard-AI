@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "filename": "Screenshot 2026-07-04 222232.png",
+    "grade": 0,
+    "disease_name": "No DR",
+    "confidence": 77.11,
+    "recommendation": "No signs of Diabetic Retinopathy detected. Continue annual eye check-ups.",
+    "timestamp": "2026-07-04 22:42:03"
+  }
+]
