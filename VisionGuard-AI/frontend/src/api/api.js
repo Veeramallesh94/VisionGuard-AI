@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Base URL of the FastAPI backend.
 // If you deploy the backend elsewhere, just change this one line.
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://visionguard-ai-cgdu.onrender.com";
 
 const api = axios.create({
   baseURL: API_BASE_URL,
