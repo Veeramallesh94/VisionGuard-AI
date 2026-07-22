@@ -13,7 +13,7 @@ An AI-powered healthcare platform that detects **Diabetic Retinopathy** from ret
 
 #  Live Demo
 
-https://your-live-demo-link.com
+https://vision-guard-ai-jade.vercel.app/
 
 ---
 
