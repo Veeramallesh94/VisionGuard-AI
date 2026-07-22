@@ -31,13 +31,13 @@ VisionGuard AI is a full-stack AI application that analyzes retinal fundus image
 
 #  Key Features
 
-- 🖼 Upload retinal fundus images
-- 🤖 AI-powered disease prediction
-- 📊 5-stage Diabetic Retinopathy classification
-- 📈 Confidence score visualization
-- 🧾 Patient prediction history
-- ⚡ FastAPI REST APIs
-- 💻 Responsive React.js interface
+-  Upload retinal fundus images
+-  AI-powered disease prediction
+-  5-stage Diabetic Retinopathy classification
+-  Confidence score visualization
+-  Patient prediction history
+-  FastAPI REST APIs
+-  Responsive React.js interface
 
 ---
 
